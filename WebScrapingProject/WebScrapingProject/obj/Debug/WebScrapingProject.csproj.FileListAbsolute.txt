@@ -1,0 +1,16 @@
+c:\users\adib\documents\visual studio 2015\Projects\WebScrapingProject\WebScrapingProject\bin\Debug\WebScrapingProject.exe.config
+c:\users\adib\documents\visual studio 2015\Projects\WebScrapingProject\WebScrapingProject\bin\Debug\WebScrapingProject.exe
+c:\users\adib\documents\visual studio 2015\Projects\WebScrapingProject\WebScrapingProject\bin\Debug\WebScrapingProject.pdb
+c:\users\adib\documents\visual studio 2015\Projects\WebScrapingProject\WebScrapingProject\bin\Debug\FSharp.Core.dll
+c:\users\adib\documents\visual studio 2015\Projects\WebScrapingProject\WebScrapingProject\bin\Debug\HtmlAgilityPack.dll
+c:\users\adib\documents\visual studio 2015\Projects\WebScrapingProject\WebScrapingProject\bin\Debug\ScrapySharp.Core.dll
+c:\users\adib\documents\visual studio 2015\Projects\WebScrapingProject\WebScrapingProject\bin\Debug\ScrapySharpAsync.dll
+c:\users\adib\documents\visual studio 2015\Projects\WebScrapingProject\WebScrapingProject\bin\Debug\FSharp.Core.xml
+c:\users\adib\documents\visual studio 2015\Projects\WebScrapingProject\WebScrapingProject\bin\Debug\HtmlAgilityPack.pdb
+c:\users\adib\documents\visual studio 2015\Projects\WebScrapingProject\WebScrapingProject\bin\Debug\HtmlAgilityPack.xml
+c:\users\adib\documents\visual studio 2015\Projects\WebScrapingProject\WebScrapingProject\obj\Debug\WebScrapingProject.csprojResolveAssemblyReference.cache
+c:\users\adib\documents\visual studio 2015\Projects\WebScrapingProject\WebScrapingProject\obj\Debug\WebScrapingProject.Form1.resources
+c:\users\adib\documents\visual studio 2015\Projects\WebScrapingProject\WebScrapingProject\obj\Debug\WebScrapingProject.Properties.Resources.resources
+c:\users\adib\documents\visual studio 2015\Projects\WebScrapingProject\WebScrapingProject\obj\Debug\WebScrapingProject.csproj.GenerateResource.Cache
+c:\users\adib\documents\visual studio 2015\Projects\WebScrapingProject\WebScrapingProject\obj\Debug\WebScrapingProject.exe
+c:\users\adib\documents\visual studio 2015\Projects\WebScrapingProject\WebScrapingProject\obj\Debug\WebScrapingProject.pdb
